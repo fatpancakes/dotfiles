@@ -1,4 +1,3 @@
-wal -R
 xcompmgr &
-setbg &
+setbg "/home/$USER/pictures/wallpapers/default_wallpaper.jpg" &
 exec qtile
