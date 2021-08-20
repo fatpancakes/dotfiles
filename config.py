@@ -134,7 +134,7 @@ colors = [["#2e3440", "#2e3440"],
           ["#d8dee9", "#d8dee9"]]
 
 widget_defaults = dict(
-    font='Blex Mono Nerd Font Complete Mono',
+    font='FreeMono',
     fontsize=18,
     padding=10,
 )
